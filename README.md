@@ -11,3 +11,5 @@ Reading into and out of text files
 Linear Search and Counting Occurances
 
 Functions
+
+Records
